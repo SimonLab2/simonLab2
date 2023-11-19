@@ -1,9 +1,9 @@
 <h1>Hi, I'm Simon! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Certifications:</h2>
-CompTIA Network+
-CompTIA Sec+
-AWS Cloud Pratictional Essential 
+- CompTIA Network+
+- CompTIA Sec+
+- AWS Cloud Pratictional Essential 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
