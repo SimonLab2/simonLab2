@@ -3,6 +3,8 @@
   
   <br/><a href="https://github.com/joshmadakor1">Programmer</a>, >Cybersecurity Professional</a>, >YouTuber</a></h1>
 
+I am a recent graduate with a profound interest in cybersecurity and a dedication to solving complex Internet Security problems. 
+
 <h2>👨‍💻 Cyber Security Certifications:</h2>
 - CompTIA Network+
 - CompTIA Sec+
