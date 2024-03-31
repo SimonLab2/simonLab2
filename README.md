@@ -19,6 +19,11 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 - Active Directory ---- Toronto School of Management Cyber Security Specialist – 2022 Module 5 – Concepts and Practical implications in encryptions Assignment 2 –VMware, Windows Server, Remote Routing, Parrot OS, DHCP, DDS, Public/Private Key, Folder, Database, NAP, NAT, VPN, Setimo Eneriko Student#: O1034790 Prof. Ionut Anghelache September 25, 2022 
 
 
+<h2>👨‍💻 SKILLS:</h2>
+<h2>👨‍💻 AWS </h2>
+
+‹div> 1[Amazon S3](https://img-shields. io/badge/-Amazon%2053-FF99007style=for-the-badge&logo-Amazon%20AWS&logoColor-white) cing src-*https://ing.shields.io/badge/-Velociraptor-4B275F?&style=for-the-
+
 
 
 <h2>👨‍💻 Cyber Security Certifications:</h2>
