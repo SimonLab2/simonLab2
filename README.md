@@ -11,9 +11,10 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 - SIEM Implementation and Log Analysis  |     Azure Virtual Lab Detection
 - Network Traiffic Monitoring and Attack Detection |   Azure Virtual Lab Detection 
 - Implementation Serveless on AWS using AWS Cognito   |  AWS Serveless APIs
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- Active Directory -
+- IAM Policies and Permissions - 
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Active Directory ---- Toronto School of Management Cyber Security Specialist – 2022 Module 5 – Concepts and Practical implications in encryptions Assignment 2 –VMware, Windows Server, Remote Routing, Parrot OS, DHCP, DDS, Public/Private Key, Folder, Database, NAP, NAT, VPN, Setimo Eneriko Student#: O1034790 Prof. Ionut Anghelache September 25, 2022 
 
 
 
