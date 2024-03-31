@@ -1,6 +1,4 @@
-<h1>Hi, I'm Simon!
-  
-  <a href="https://linkedin.com"in/seneriko/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br/><a href="https://github.com/joshmadakor1">Programmer</a>, >Cybersecurity Professional</a>, >YouTuber</a></h1>
+<h1>Hi, I'm Simon!<a href="https://linkedin.com"in/seneriko/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br/><a href="https://github.com/joshmadakor1">Programmer</a>, >Cybersecurity Professional</a>, >YouTuber</a></h1>
 
 
 
