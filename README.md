@@ -8,9 +8,9 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 
 <h2>📺 Skill  | Associated Project</h2>
 
-- SIEM Implementation and Log Analysis  | Azure Virtual Lab Detection
-- Network Traiffic Monitoring and Attack Detection | Azure Virtual Lab Detection / AWS Enivroment
-- Implementation Serveless on AWS using AWS Cognito 
+- SIEM Implementation and Log Analysis  |     Azure Virtual Lab Detection
+- Network Traiffic Monitoring and Attack Detection |   Azure Virtual Lab Detection 
+- Implementation Serveless on AWS using AWS Cognito   |  AWS Serveless APIs
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
