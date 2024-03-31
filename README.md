@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon!<a href=https://linkedin.com/in/seneriko/
+<h1>Hi, I'm Simon!<a href="https://linkedin.com"/in/seneriko/
 
 
 
