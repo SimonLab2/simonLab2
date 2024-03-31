@@ -23,7 +23,7 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 <h2>👨‍💻 AWS </h2>
 
 ‹div>
-<img src="https://img-shields.io/badge/-Amazon%2053-FF99007style=for-the-badge&logo-Amazon%20AWS&logoColor-white" />
+  <img src="https://img-shields.io/badge/-Amazon%2053-FF99007style=for-the-badge&logo-Amazon%20AWS&logoColor=white" />
 
 
 
