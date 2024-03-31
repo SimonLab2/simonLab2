@@ -12,6 +12,15 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 SIEM Implementation and Log Analysis   | Azure Virtual Lab Detection
 Network Traiffic Monitoring and Attack Detection | Azure Virtual Lab Detection / AWS Enivroment 
 
+<h2>📺 YouTube Automation Projects</h2>
+
+- SIEM Implementation and Log Analysis   | Azure Virtual Lab Detection
+- Network Traiffic Monitoring and Attack Detection | Azure Virtual Lab Detection / AWS Enivroment
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+
 
 
 <h2>👨‍💻 Cyber Security Certifications:</h2>
