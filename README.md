@@ -9,8 +9,8 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 
 <h2>👨‍💻 Skill                                                | Associated Project            |:</h2>
 
-SIEM Implementation and Log Analysis      | Azure Virtual Lab Detection
-Network Traiffic Monitoring and Attack Detection      | Azure Virtual Lab Detection / AWS Enivroment 
+SIEM Implementation and Log Analysis   | Azure Virtual Lab Detection
+Network Traiffic Monitoring and Attack Detection | Azure Virtual Lab Detection / AWS Enivroment 
 
 
 
