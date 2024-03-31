@@ -12,7 +12,9 @@ My journey in Cybersecurity has led to develope a passion for cybersecurity, and
 - Network Traiffic Monitoring and Attack Detection |   Azure Virtual Lab Detection 
 - Implementation Serveless on AWS using AWS Cognito   |  AWS Serveless APIs
 - Active Directory -
-- IAM Policies and Permissions - 
+- IAM Policies and Permissions -
+- Linux Challenge - Samples work 
+- penetration Testing Sample work 
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - Active Directory ---- Toronto School of Management Cyber Security Specialist – 2022 Module 5 – Concepts and Practical implications in encryptions Assignment 2 –VMware, Windows Server, Remote Routing, Parrot OS, DHCP, DDS, Public/Private Key, Folder, Database, NAP, NAT, VPN, Setimo Eneriko Student#: O1034790 Prof. Ionut Anghelache September 25, 2022 
 
