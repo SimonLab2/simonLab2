@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in cybersecurity and a dedicatio
 My journey in Cybersecurity has led to develope a passion for cybersecurity, and I amnow eagaer to transition in this field, specificially aiming to joint a Security Opereation Center (SOC) as Tier 1 Analyst. 
 
 
-<h2>👨‍💻 Skill                                            | Associated Project            |:</h2>
+<h2>👨‍💻 Skill                                            | Associated Project    </h2>
 
 SIEM Implementation and Log Analysis   | Azure Virtual Lab Detection
 Network Traiffic Monitoring and Attack Detection | Azure Virtual Lab Detection / AWS Enivroment 
